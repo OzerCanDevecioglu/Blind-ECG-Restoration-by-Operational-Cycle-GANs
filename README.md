@@ -51,7 +51,7 @@ Continuous long-term monitoring of electrocardiography (ECG) signals is crucial 
 If you find this project useful, we would be grateful if you cite this paper：
 
 ```http
-S. Kiranyaz, O. C. Devecioglu, T. Ince, J. Malik, M. Chowdhury, T. Hamid, R. Mazhar, A. Khandakar, A. Tahir, T. Rahman, and M. Gabbouj, “Blind ECG Restoration by Operational Cycle-GANs”, in arXiv Preprint, https://arxiv.org/abs/2202.00589 , Feb. 2022. 
+Kiranyaz S, Devecioglu OC, Ince T, Malik J, Chowdhury M, Hamid T, Mazhar R, Khandakar A, Tahir A, Rahman T, Gabbouj M. Blind ECG Restoration by Operational Cycle-GANs. IEEE Trans Biomed Eng. 2022 Dec;69(12):3572-3581. doi: 10.1109/TBME.2022.3172125. Epub 2022 Nov 21. PMID: 35503842.
 ```
 If you use labeled CPSC-2020 dataset , please cite these following papers too:
 ```http

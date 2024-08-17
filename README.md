@@ -8,8 +8,8 @@ Continuous long-term monitoring of electrocardiography (ECG) signals is crucial 
 ## Dataset
 
 - [The China Physiological Signal Challenge 2020](http://2020.icbeb.org/CSPC2020), (CPSC-2020) dataset is used for training & testing.
-- For training dataset, 4000 clean and corrupted segments with a duration of 10 seconds are selected. Training dataset can be downloaded from the given [link](https://drive.google.com/drive/folders/1XScA_USC8ewJ9uGVBQfCC4KvxUbwi4qp?usp=sharing)
-- CPSC-2020 with R-peak label information can be downloaded from the given [link](https://drive.google.com/drive/folders/1DoXdJJ5RCwPvahX9DSUTuWdltyK6iv0m?usp=sharing)
+- For training dataset, 4000 clean and corrupted segments with a duration of 10 seconds are selected. Training dataset can be downloaded from the given [link](https://drive.google.com/drive/folders/101G3HrntUaCXak72RZFivSyyNnkb7u7G?usp=sharing)
+- CPSC-2020 with R-peak label information can be downloaded from the given [link](https://drive.google.com/drive/folders/1QOTDxoCUFNk-SKWi-Atggk1V9Q8tejMf?usp=sharing)
 ## Run
 
 #### Train
@@ -18,7 +18,7 @@ Continuous long-term monitoring of electrocardiography (ECG) signals is crucial 
 ```http
   python 1D_Self_Operational_CycleGAN.py
 ```
-- Start evaluation. You can download Pre-trained Network [weights](https://drive.google.com/drive/folders/1ezrWa6A69H5ccNV1y2hb_GuyLsmEk1ff?usp=sharing)
+- Start evaluation. You can download Pre-trained Network [weights](https://drive.google.com/drive/folders/1WPnskKwW_x2jtsSK-7RkBQvT1bXUF9JH?usp=sharing)
 ```http
   python test.py
 ```
